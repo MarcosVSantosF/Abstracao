@@ -1,0 +1,14 @@
+C:\Users\marco\Documents\Udemy\Curso - C#\Seção 10 - Herança e Polmorfismo\Ex_Proposto 2\bin\Debug\net8.0\Ex_Proposto 2.exe
+C:\Users\marco\Documents\Udemy\Curso - C#\Seção 10 - Herança e Polmorfismo\Ex_Proposto 2\bin\Debug\net8.0\Ex_Proposto 2.deps.json
+C:\Users\marco\Documents\Udemy\Curso - C#\Seção 10 - Herança e Polmorfismo\Ex_Proposto 2\bin\Debug\net8.0\Ex_Proposto 2.runtimeconfig.json
+C:\Users\marco\Documents\Udemy\Curso - C#\Seção 10 - Herança e Polmorfismo\Ex_Proposto 2\bin\Debug\net8.0\Ex_Proposto 2.dll
+C:\Users\marco\Documents\Udemy\Curso - C#\Seção 10 - Herança e Polmorfismo\Ex_Proposto 2\bin\Debug\net8.0\Ex_Proposto 2.pdb
+C:\Users\marco\Documents\Udemy\Curso - C#\Seção 10 - Herança e Polmorfismo\Ex_Proposto 2\obj\Debug\net8.0\Ex_Proposto 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Documents\Udemy\Curso - C#\Seção 10 - Herança e Polmorfismo\Ex_Proposto 2\obj\Debug\net8.0\Ex_Proposto 2.AssemblyInfoInputs.cache
+C:\Users\marco\Documents\Udemy\Curso - C#\Seção 10 - Herança e Polmorfismo\Ex_Proposto 2\obj\Debug\net8.0\Ex_Proposto 2.AssemblyInfo.cs
+C:\Users\marco\Documents\Udemy\Curso - C#\Seção 10 - Herança e Polmorfismo\Ex_Proposto 2\obj\Debug\net8.0\Ex_Proposto 2.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\Udemy\Curso - C#\Seção 10 - Herança e Polmorfismo\Ex_Proposto 2\obj\Debug\net8.0\Ex_Proposto 2.dll
+C:\Users\marco\Documents\Udemy\Curso - C#\Seção 10 - Herança e Polmorfismo\Ex_Proposto 2\obj\Debug\net8.0\refint\Ex_Proposto 2.dll
+C:\Users\marco\Documents\Udemy\Curso - C#\Seção 10 - Herança e Polmorfismo\Ex_Proposto 2\obj\Debug\net8.0\Ex_Proposto 2.pdb
+C:\Users\marco\Documents\Udemy\Curso - C#\Seção 10 - Herança e Polmorfismo\Ex_Proposto 2\obj\Debug\net8.0\Ex_Proposto 2.genruntimeconfig.cache
+C:\Users\marco\Documents\Udemy\Curso - C#\Seção 10 - Herança e Polmorfismo\Ex_Proposto 2\obj\Debug\net8.0\ref\Ex_Proposto 2.dll

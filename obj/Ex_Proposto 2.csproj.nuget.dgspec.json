@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\marco\\Documents\\Udemy\\Curso - C#\\Seção 10 - Herança e Polmorfismo\\Ex_Proposto 2\\Ex_Proposto 2.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\marco\\Documents\\Udemy\\Curso - C#\\Seção 10 - Herança e Polmorfismo\\Ex_Proposto 2\\Ex_Proposto 2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marco\\Documents\\Udemy\\Curso - C#\\Seção 10 - Herança e Polmorfismo\\Ex_Proposto 2\\Ex_Proposto 2.csproj",
+        "projectName": "Ex_Proposto 2",
+        "projectPath": "C:\\Users\\marco\\Documents\\Udemy\\Curso - C#\\Seção 10 - Herança e Polmorfismo\\Ex_Proposto 2\\Ex_Proposto 2.csproj",
+        "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marco\\Documents\\Udemy\\Curso - C#\\Seção 10 - Herança e Polmorfismo\\Ex_Proposto 2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\marco\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
